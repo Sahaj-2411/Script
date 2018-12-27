@@ -11,7 +11,7 @@ Entry{
   GurpreetSir -> Break chahiye..?
   <Kids Altogether> -> Yeeeessss Ssiiirrrr..
   GurpreetSir -> Next Topic likho..
-  Kid1 -> abbbee yrrr.. revision kia hai bhai.. hari bhai ka period hai..?
+  Kid1 -> abbbee yrrr.. revision kia hai bhai..? hari bhai ka period hai..
 
   Narrator -> huh.. Shaitan ka naam lia aur shaitan haazir..
 
@@ -20,10 +20,18 @@ Entry{
 <GurpreetSir leaves>
 <Kids stood up>
 
-Narrator -> This is not new for students..  Unko to aadat si hai ab..
- 
+Narrator -> This is not new for students..  Unko to aadat si hai ab.. 
+
 Scene1{
-  Narrator -> Here comes the Chill Guy... the Corny Stud..  the King of Lameness.. You guys know  whom we talkin about..
+  Narrator -> Here comes the Chill Singer.. the Corny Stud..  the King of Lameness.. You guys know  whom we talkin about..
                                                         Enters <HariSir>
   HariSir -> Gud morning kiddos
+  <Altogether> -> Gud Mornin sir..
+  <low murmurings>
+  <Two Kids Enters the class>
+  Kid1 -> May I comin sii... Abe BOHEMIA..
+  Kid2 -> <chuckles> Chl be.. 
+  <Everyone settles down> 
+
+  
    }
